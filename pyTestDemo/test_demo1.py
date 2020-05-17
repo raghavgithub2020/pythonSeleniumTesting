@@ -8,7 +8,10 @@ import pytest
 @pytest.mark.smoke
 def test_firstProgram(setup):
     print("Hello")
-
+    print("Good Morning")
+    print("Good Morning")
+    print("Good Morning")
+    print("Good Morning")
 
 @pytest.mark.xfail
 def test_SecondGreetCreditCard():
