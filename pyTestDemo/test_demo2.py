@@ -21,14 +21,16 @@ import pytest
 def test_firstProgram():
     msg = "Hello" #operations
     assert msg == "Hello", "Test failed because strings do not match"
-
+    print("Good Morning")
+    print("Good Morning")
 
 
 def test_SecondCreditCard():
     a = 4
     b = 6
     assert a+2 == 6, "Addition do not match"
-
+    print("Good Morning")
+    print("Good Morning")
 
 
 
