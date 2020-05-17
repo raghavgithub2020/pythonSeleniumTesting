@@ -33,3 +33,6 @@
 2020-05-16 18:29:34,805 :INFO : test_editProfile :Raghav
 2020-05-16 18:29:34,806 :INFO : test_editProfile :rahulshettyacademy.com
 2020-05-16 18:29:34,820 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-17 13:03:04,385 :INFO : test_editProfile :Raghav
+2020-05-17 13:03:04,385 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-17 13:03:04,396 :CRITICAL : pyTestDemo.test_logging :Critical issue
