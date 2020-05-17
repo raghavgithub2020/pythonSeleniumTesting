@@ -3,3 +3,4 @@ def test():
     # driver = webdriver.Firefox()
     #browser.get("https://google.com")
     assert 2 == 2
+    print ("print is successfull")
