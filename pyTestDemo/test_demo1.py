@@ -13,7 +13,7 @@ def test_firstProgram(setup):
     print("Good Morning")
     print("Good Morning")
 
-@pytest.mark.xfail
+@pytest.mark.xfail # it will fail the test case and wil not show in report
 def test_SecondGreetCreditCard():
     print("Good Morning")
     print("Good Morning")
@@ -22,7 +22,7 @@ def test_SecondGreetCreditCard():
     print("Good Morning")
 
 
-
+@pytest.fixture()
 def test_crossBrowser(crossBrowser):
     print(crossBrowser[1])
 

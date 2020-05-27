@@ -39,3 +39,37 @@
 2020-05-17 13:09:08,028 :INFO : test_editProfile :Raghav
 2020-05-17 13:09:08,029 :INFO : test_editProfile :rahulshettyacademy.com
 2020-05-17 13:09:08,040 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-18 12:15:40,524 :INFO : test_editProfile :Raghav
+2020-05-18 12:15:40,526 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-18 12:15:40,543 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-18 12:21:38,822 :INFO : test_editProfile :Raghav
+2020-05-18 12:21:38,823 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-18 12:26:47,169 :INFO : pyTestDemo.test_logging :Information statement
+2020-05-18 12:26:47,169 :WARNING : pyTestDemo.test_logging :Something is in warning mode
+2020-05-18 12:26:47,169 :ERROR : pyTestDemo.test_logging :A Major error has happend
+2020-05-18 12:26:47,169 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-19 19:07:36,610 :INFO : test_editProfile :Raghav
+2020-05-19 19:07:36,611 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-19 19:07:36,629 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-23 07:36:53,233 :INFO : test_editProfile :Raghav
+2020-05-23 07:36:53,233 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-26 21:26:25,904 :INFO : test_editProfile :Raghav
+2020-05-26 21:26:25,905 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-26 21:29:39,510 :INFO : pyTestDemo.test_logging :Information statement
+2020-05-26 21:29:39,510 :WARNING : pyTestDemo.test_logging :Something is in warning mode
+2020-05-26 21:29:39,510 :ERROR : pyTestDemo.test_logging :A Major error has happend
+2020-05-26 21:29:39,510 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-27 07:03:09,728 :INFO : test_editProfile :Raghav
+2020-05-27 07:03:09,729 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-27 07:11:32,943 :INFO : test_editProfile :Raghav
+2020-05-27 07:11:32,943 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-27 07:11:32,954 :INFO : pyTestDemo.test_logging :Information statement
+2020-05-27 07:11:32,954 :WARNING : pyTestDemo.test_logging :Something is in warning mode
+2020-05-27 07:11:32,954 :ERROR : pyTestDemo.test_logging :A Major error has happend
+2020-05-27 07:11:32,954 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-27 07:18:27,180 :INFO : test_editProfile :Raghav
+2020-05-27 07:18:27,180 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-27 07:18:27,191 :CRITICAL : pyTestDemo.test_logging :Critical issue
+2020-05-27 07:21:03,165 :INFO : test_editProfile :Raghav
+2020-05-27 07:21:03,165 :INFO : test_editProfile :rahulshettyacademy.com
+2020-05-27 07:21:03,181 :CRITICAL : pyTestDemo.test_logging :Critical issue

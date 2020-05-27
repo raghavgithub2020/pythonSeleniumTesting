@@ -17,7 +17,7 @@ import pytest
 
 
 @pytest.mark.smoke
-#@pytest.mark.skip
+@pytest.mark.skip
 def test_firstProgram():
     msg = "Hello" #operations
     assert msg == "Hello", "Test failed because strings do not match"
