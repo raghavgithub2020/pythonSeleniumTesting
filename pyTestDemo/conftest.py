@@ -1,5 +1,7 @@
 import pytest
 
+# py.test /reports/report.html
+
 
 @pytest.fixture(scope="class")
 def setup():
@@ -14,6 +16,6 @@ def dataLoad():
     return ["Raghav","Rahul","rahulshettyacademy.com"]
 
 
-@pytest.fixture(params=[("chrome","Rahul","Ragahv"), ("Firefox","Amilineni"), ("IE","Naidu")])
+@pytest.fixture(params=[("chrome","Rahul","Ragahv"), ("firefox","Amilineni"), ("safari","Naidu")])
 def crossBrowser(request):
     return request.param

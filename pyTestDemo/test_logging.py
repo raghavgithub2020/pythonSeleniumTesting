@@ -10,7 +10,7 @@ def test_loggingDemo():
 
     logger.addHandler(fileHandler)  #filehandler object
 
-    logger.setLevel(logging.CRITICAL)
+    logger.setLevel(logging.INFO)
     logger.debug("A debug statement is executed")
     logger.info("Information statement")
     logger.debug("A debug statement is executed")
